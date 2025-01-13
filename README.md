@@ -5,7 +5,7 @@ A PHP-based administation console for managing Mismo Messaging System instances.
 ### Requirements:
 - Apache 2.4.x
 - PHP 8.x with support for MongoDB
-- git (for obtaining the source code)
+- Mongo PHP Library (https://github.com/mongodb/mongo-php-library)
 
 ### Installation:
 Obtain the source from GitHub:
